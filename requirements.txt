@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.3
+geopandas==1.0.1
+matplotlib==3.9.1.post1
+numpy==2.0.1
+pandas==2.2.2
+requests==2.32.3
+scikit_learn==1.5.1
+scipy==1.14.0
+shapely==2.0.5
+statsmodels==0.14.2
